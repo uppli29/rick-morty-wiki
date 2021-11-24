@@ -28,7 +28,7 @@ const Pagination = (props) => {
 				}
 			`}
 		</style>
-		<ReactPaginate className="pagination justify-content-center gap-4 my-4" pageCount={props.info?.pages}
+		<ReactPaginate className={`pagination justify-content-center gap-4 my-4 ${width}`}  pageCount={props.info?.pages}
 		previousLabel="Prev"
 		nextLabel="Next"
 		previousClassName=" text-white prev"

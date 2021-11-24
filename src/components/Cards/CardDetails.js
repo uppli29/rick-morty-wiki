@@ -3,7 +3,7 @@ import { useParams } from 'react-router';
 const CardDetails = () => {
 	const { id } = useParams();
 	const [ fetchedData, setFetchedData ] = useState([]);
-	let { name, image, location, origin, gender, species, status, type } = fetchedData;
+	let { name, image, location, origin, gender, species, status} = fetchedData;
 	let api = `https://rickandmortyapi.com/api/character/${id}`;
 	useEffect(
 		() => {
