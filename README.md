@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[Live Demo](https://rick-morty-wiki.herokuapp.com/)
+**💻Live Demo (https://rick-morty-wiki.herokuapp.com/)**
 
 **👉API (https://rickandmortyapi.com/)**
 
