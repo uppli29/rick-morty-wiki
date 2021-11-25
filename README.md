@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [Live Demo](https://rick-morty-wiki.herokuapp.com/)
 
+**👉API (https://rickandmortyapi.com/)**
+
 ## Available Scripts
 
 In the project directory, you can run:
