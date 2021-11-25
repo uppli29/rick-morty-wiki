@@ -8,19 +8,19 @@ The Rick and Morty WiKi is a react  app based on the television show [Rick and M
 **👉API (https://rickandmortyapi.com/)**
 
 ## Features
-<li>Dynamic Filtering</li>
-<li>Searching by Characters</li>
+<li>Dynamic Filters</li>
+<li>Search by Characters</li>
 <li>Responsive Design</li>
 <br>
 
 <img src="./public/snapshots/live_1.png" alt="">
 <br>
 <br>
-<header><strong><u>Filtering</u></strong></header>
+<header><strong>Dynamic Filters</strong></header>
 <img src="./public/snapshots/live_2.png" alt="">
 <br>
 <br>
-<header><strong><u>Searching</u></strong></header>
+<header><strong>Search by Characters</strong></header>
 <img src="./public/snapshots/live_3.png" alt="">
 
 ### Modules Used
