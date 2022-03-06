@@ -22,7 +22,10 @@ The Rick and Morty WiKi is a react  app based on the television show [Rick and M
 <br>
 <header><strong>Search by Characters</strong></header>
 <img src="./public/snapshots/live_3.png" alt="">
-
+<br>
+<br>
+<header><strong>Components Design</strong></header>
+<img src="./public/snapshots/live_4.png" alt="">
 ### Modules Used
 
 <li>React Paginate</li>
